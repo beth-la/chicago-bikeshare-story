@@ -1,9 +1,19 @@
+
 theme: jekyll-theme-minimal
-title: The City's Heartbeat: Bikeshare as a Social Sensor
-description:  Exploring Chicago's bike-sharing  patterns to understand urban mobility, weather effects, and unexpected events.
-show_downloads: True
+
+title: "The City's Heartbeat: Bikeshare as a Social Sensor"
+
+description: >-
+  Exploring Chicago's bike-sharing patterns to understand
+  urban mobility, weather effects, and unexpected events.
+
+url: "https://beth-la.github.io"
+baseurl: "/chicago-bikeshare-story"
+
+show_downloads: false
+
 navigation:
   - title: Home
     url: /
   - title: Example
-    url: example
+    url: /example/
