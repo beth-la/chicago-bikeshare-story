@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: The City's Heartbeat: Bikeshare as a Social Sensor
+description:  Exploring Chicago's bike-sharing  patterns to understand urban mobility, weather effects, and unexpected events.
 show_downloads: True
 navigation:
   - title: Home
